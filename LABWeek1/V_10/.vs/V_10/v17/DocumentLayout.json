@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek1\\V_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{959C1E80-A437-408C-9991-99E2FDEF1F97}|V_10.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek1\\V_10\\V_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{959C1E80-A437-408C-9991-99E2FDEF1F97}|V_10.vcxproj|solutionrelative:V_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "V_10.cpp",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek1\\V_10\\V_10.cpp",
+              "RelativeDocumentMoniker": "V_10.cpp",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek1\\V_10\\V_10.cpp",
+              "RelativeToolTip": "V_10.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T00:03:46.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

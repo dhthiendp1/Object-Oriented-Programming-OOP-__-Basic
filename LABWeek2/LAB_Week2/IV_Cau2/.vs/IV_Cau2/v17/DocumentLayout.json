@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\MyDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:MyDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\MyDate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:MyDate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Officer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:Officer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Officer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:Officer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A150675-E1AA-46D6-8ADE-7D414C72FD33}|IV_Cau2.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDate.h",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\MyDate.h",
+              "RelativeDocumentMoniker": "MyDate.h",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\MyDate.h",
+              "RelativeToolTip": "MyDate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T11:31:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDate.cpp",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\MyDate.cpp",
+              "RelativeDocumentMoniker": "MyDate.cpp",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\MyDate.cpp",
+              "RelativeToolTip": "MyDate.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T11:32:10.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T11:28:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T11:31:22.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Officer.h",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Officer.h",
+              "RelativeDocumentMoniker": "Officer.h",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Officer.h*",
+              "RelativeToolTip": "Officer.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T12:11:42.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Officer.cpp",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Officer.cpp",
+              "RelativeDocumentMoniker": "Officer.cpp",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Officer.cpp",
+              "RelativeToolTip": "Officer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T12:12:00.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\IV_Cau2\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T12:31:37.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

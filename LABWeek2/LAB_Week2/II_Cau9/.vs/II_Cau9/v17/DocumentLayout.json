@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\II_Cau9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEF9B30-CCFA-407E-B662-9D00FCAAF8A2}|II_Cau9.vcxproj|C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\II_Cau9\\III_Cau9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EEF9B30-CCFA-407E-B662-9D00FCAAF8A2}|II_Cau9.vcxproj|solutionrelative:III_Cau9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "III_Cau9.cpp",
+              "DocumentMoniker": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\II_Cau9\\III_Cau9.cpp",
+              "RelativeDocumentMoniker": "III_Cau9.cpp",
+              "ToolTip": "C:\\Users\\huy20\\OneDrive\\M\u00E1y t\u00EDnh\\ProjectVSCode\\C\u002B\u002B\\NopBTLAB\\LABWeek2\\LAB_Week2\\II_Cau9\\III_Cau9.cpp",
+              "RelativeToolTip": "III_Cau9.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T10:01:16.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

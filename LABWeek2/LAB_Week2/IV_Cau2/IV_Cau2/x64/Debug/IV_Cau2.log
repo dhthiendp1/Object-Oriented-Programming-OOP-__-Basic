@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Officer.cpp
+  Person.cpp
+C:\Users\huy20\OneDrive\Máy tính\ProjectVSCode\C++\NopBTLAB\LABWeek2\LAB_Week2\IV_Cau2\Officer.h(6,24): error C2504: 'Person': base class undefined
+  (compiling source file 'Person.cpp')
+  
+  Generating Code...

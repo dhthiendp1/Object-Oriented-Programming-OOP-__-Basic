@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  main.cpp
+  Generating Code...
+III_Cau2\x64\Debug\Complex.obj : warning LNK4042: object specified more than once; extras ignored
+  III_Cau1.vcxproj -> C:\Users\huy20\OneDrive\Máy tính\ProjectVSCode\C++\NopBTLAB\LABWeek2\LAB_Week2\III_Cau2\x64\Debug\III_Cau2.exe
